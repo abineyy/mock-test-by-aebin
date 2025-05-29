@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which law states that energy cannot be created or destroyed?",
+        "options": ["Newton’s First Law", "Law of Conservation of Energy", "Heisenberg’s Uncertainty Principle", "Boyle’s Law"],
+        "correct": 1
+    },
+    {
+        "question": "A ball is thrown vertically upward with speed 20 m/s. How long does it take to reach the highest point? (g = 9.8 m/s²)",
+        "options": ["1.5 seconds", "2.04 seconds", "3.1 seconds", "2.8 seconds"],
+        "correct": 1
+    },
+    {
+        "question": "What is the molar mass of NaCl?",
+        "options": ["44.1 g/mol", "58.5 g/mol", "74.2 g/mol", "100.0 g/mol"],
+        "correct": 1
+    },
+    {
+        "question": "Which subatomic particle is responsible for chemical bonding?",
+        "options": ["Protons", "Neutrons", "Electrons", "Photons"],
+        "correct": 2
+    },
+    {
+        "question": "Which process is responsible for the formation of rust?",
+        "options": ["Oxidation", "Reduction", "Sublimation", "Neutralization"],
+        "correct": 0
+    },
+    {
+        "question": "Which hormone regulates blood sugar levels?",
+        "options": ["Insulin", "Adrenaline", "Thyroxine", "Glucagon"],
+        "correct": 0
+    },
+    {
+        "question": "The powerhouse of the cell is called?",
+        "options": ["Nucleus", "Mitochondria", "Golgi Apparatus", "Ribosome"],
+        "correct": 1
+    },
+    {
+        "question": "What is the derivative of sin(x)?",
+        "options": ["cos(x)", "-cos(x)", "tan(x)", "-sin(x)"],
+        "correct": 0
+    },
+    {
+        "question": "If a matrix A has an inverse, what property must it have?",
+        "options": ["Singular", "Determinant = 0", "Determinant ≠ 0", "Only square matrices"],
+        "correct": 2
+    },
+    {
+        "question": "Which country's flag has a unique non-rectangular shape?",
+        "options": ["Switzerland", "Nepal", "Bhutan", "Vatican City"],
+        "correct": 1
+    },
+    {
+        "question": "Which layer of the atmosphere contains the ozone layer?",
+        "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+        "correct": 1
+    },
+    {
+        "question": "Who discovered the neutron?",
+        "options": ["Ernest Rutherford", "J.J. Thomson", "James Chadwick", "Niels Bohr"],
+        "correct": 2
+    },
+    {
+        "question": "A function is said to be continuous if it is:",
+        "options": ["Differentiable", "Bounded", "Non-zero everywhere", "Defined for all x"],
+        "correct": 0
+    },
+    {
+        "question": "What is the result of integrating x²?",
+        "options": ["x³", "x³/3", "x²/2", "2x"],
+        "correct": 1
+    },
+    {
+        "question": "Which gas causes the greenhouse effect?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Neon"],
+        "correct": 2
+    },
+    {
+        "question": "Which planet has the strongest gravitational pull?",
+        "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+        "correct": 1
+    },
+    {
+        "question": "What is the formula for calculating kinetic energy?",
+        "options": ["KE = mv", "KE = 1/2 mv²", "KE = mg", "KE = mgh"],
+        "correct": 1
+    },
+    {
+        "question": "Which element is the most abundant in the Earth's crust?",
+        "options": ["Oxygen", "Silicon", "Iron", "Aluminum"],
+        "correct": 0
+    },
+    {
+        "question": "What is the SI unit of electric current?",
+        "options": ["Volt", "Ampere", "Ohm", "Watt"],
+        "correct": 1
+    },
+    {
+        "question": "Which mathematical theorem states that a² + b² = c²?",
+        "options": ["Pythagorean Theorem", "Binomial Theorem", "Fermat's Last Theorem", "Taylor Series"],
+        "correct": 0
+    }
+]
